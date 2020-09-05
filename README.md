@@ -5,8 +5,8 @@ Fundamental 2번째 노드에서 깃허브와 주피터에 대해서 배웠습�
 ```
 
 ### Contents
-* 자기소개
-* 파이썬 코딩도장 소스
+* [자기소개](https://github.com/seraaaayeo/Modulabs-test/blob/master/Introduction.md)
+* [파이썬 코딩도장 소스](https://github.com/seraaaayeo/Modulabs-test/tree/master/python_coing_dojang)
 
 ### Question
 * 코딩도장에서 여러가지를 배웠습니다. 이를 소스코드로 작성하여 하나의 폴더로 묶고 싶은데, 어떻게 하면 좋을까요?
