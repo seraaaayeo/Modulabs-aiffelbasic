@@ -1,4 +1,4 @@
-<h1 align="center">AI fundamental stage</h1>
+<h1 align="center">AIFFEL basic course</h1>
 <p align="center">
     <img alt="Study" src="https://user-images.githubusercontent.com/53554014/92321063-c8d33400-f061-11ea-893b-044a8d471413.png" width=50% height=50% />
 </p>
