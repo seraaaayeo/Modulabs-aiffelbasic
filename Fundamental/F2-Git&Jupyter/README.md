@@ -8,7 +8,7 @@ Fundamental 2번째 노드에서 깃허브와 주피터에 대해서 배웠습�
 다양한 마크다운 문법을 연습하고, 예쁜 리드미를 만들 수 있도록 연습해 봅시다.
 
 ### Contents
-* [자기소개](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Fundamental/F2-Git%26Jupyter/Introduction.md)
+* [자기소개](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Fundamental/F2-Git%26Jupyter/Introduction-Dasol.md)
 
 ### Question
 * 코딩도장에서 여러가지를 배웠습니다. 이를 소스코드로 작성하여 하나의 폴더로 묶고 싶은데, 어떻게 하면 좋을까요?
