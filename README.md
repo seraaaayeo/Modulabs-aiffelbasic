@@ -1,17 +1,25 @@
-# Fundamental2
-### Jupyter notebook과 Github 사용하기
-```
-Fundamental 2번째 노드에서 깃허브와 주피터에 대해서 배웠습니다! 이를 조금 응용해 볼까요??
-```
+<h1 align="center">AI fundamental stage</h1>
+<p align="center">
+    <img alt="Study" src="https://user-images.githubusercontent.com/53554014/92321063-c8d33400-f061-11ea-893b-044a8d471413.png" width=50% height=50% />
+</p>
+<p align="center">
+  :[모두의연구소 X sba 아카데미] 아이펠 기본과정 퍼실리테이터 전용 레포:computer:
+</p>
 
-### Contents
-* [자기소개](https://github.com/seraaaayeo/Modulabs-test/blob/master/Introduction.md)
-* [파이썬 코딩도장 소스](https://github.com/seraaaayeo/Modulabs-test/tree/master/python_coing_dojang)
+* * *
 
-### Question
-* 코딩도장에서 여러가지를 배웠습니다. 이를 소스코드로 작성하여 하나의 폴더로 묶고 싶은데, 어떻게 하면 좋을까요?
+## Description
+모두의연구소 아이펠 기본과정 퍼실리테이터들이 수강생들의 이해를 돕기 위해 깜짝 퀴즈 및 실습 과제를 제출하며, 해당 내용을 정리하기 위한 레포입니다.
 
-### Futher more
-* 커밋이란 무엇일까요?
-* 커밋을 **잘** 하는 것 또한 굉장히 중요합니다. 커밋 단위는 어떻게 잡아야 할까요?
-* 커밋을 할 땐 커밋 메시지를 작성하죠. 커밋 메시지에는 어떤 내용이 포함되어야 좋을까요?
+## Introduction
+* Date : 화,수,목,금 19:00 - 22:00, 토 9:00 - 18:00
+* Flipped Learning based learning course
+    * [Modulabs' LMS](https://github.com/seraaaayeo/Modulabs-aiffelbasic/tree/master/Fundamental)
+    * [Python 코딩도장](https://github.com/seraaaayeo/Modulabs-aiffelbasic/tree/master/Python_CoingDojang)
+
+## Quiz
+|  <center>Course</center> |  <center>Lecture</center> |  <center>Description</center> |  
+|:--------|:--------:|:--------:|
+|**F-2** | <center>Jupyter & Github</center> | <center>주피터 노트북으로 마크다운 문법을 적용하여 자기소개서를 작성하여 깃허브에 배포하기</center> |
+|**-** | <center></center> | <center></center> |
+|**-** | <center></center> | <center></center> |
