@@ -3,7 +3,7 @@
     <img alt="Study" src="https://user-images.githubusercontent.com/53554014/92321063-c8d33400-f061-11ea-893b-044a8d471413.png" width=50% height=50% />
 </p>
 <p align="center">
-  :[모두의연구소 X sba 아카데미] 아이펠 기본과정 퍼실리테이터 전용 레포:computer:
+  :computer:[모두의연구소 X sba 아카데미] 아이펠 기본과정 퍼실리테이터 전용 레포:computer:
 </p>
 
 * * *
