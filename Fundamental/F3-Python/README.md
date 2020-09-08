@@ -12,7 +12,7 @@ if문과 for문만으로도 쉽게 풀리지만, 조금만 생각해보면 더 �
 > 출처 : 프로그래머스 Level1
 
 |  <center>원본 문제 보기</center> |  <center>여다솔 퍼실 풀이 보러가기</center> |  <center>조대현 퍼실 풀이 보러가기</center> |  <center>이호민 퍼실 풀이 보러가기</center> |
-|:--------|:--------:||:--------|:--------:|
+|:--------|:--------:|:--------|:--------:|
 |**[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12901)** | <center></center> | <center></center> | <center></center> |
 |**[2016년](https://programmers.co.kr/learn/courses/30/lessons/12912)** | <center>https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Fundamental/F3-Python/2016-Dasol.ipynb</center> | <center></center> | <center></center> |
 
