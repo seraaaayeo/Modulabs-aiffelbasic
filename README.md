@@ -20,6 +20,6 @@
 ## Quiz
 |  <center>Course</center> |  <center>Lecture</center> |  <center>Description</center> |  
 |:--------|:--------:|:--------:|
-|**F-2** | <center>Jupyter & Github</center> | <center>주피터 노트북으로 마크다운 문법을 적용하여 자기소개서를 작성하여 깃허브에 배포하기</center> |
-|**-** | <center></center> | <center></center> |
-|**-** | <center></center> | <center></center> |
+|**F-2** | <center>Jupyter & Github</center> | <center>주피터 노트북으로 마크다운 문법을 적용하여 자기소개서를 작성하고 깃허브에 배포하기</center> |
+|**F-3** | <center>Python</center> | <center>기본적인 파이썬 문법을 사용하여 문제풀이 후 다른 방법으로도 풀어보기</center> |
+
