@@ -13,7 +13,7 @@ if문과 for문만으로도 쉽게 풀리지만, 조금만 생각해보면 더 �
 
 |  <center>문제 보기</center> |  <center>[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12901)</center> |  <center>[2016년](https://programmers.co.kr/learn/courses/30/lessons/12912)</center> |
 |:--------|:--------:|:--------|
-|**여다솔** | <center>[풀이 보러가기](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Fundamental/F3-Python/2016-Dasol.ipynb)</center> | <center></center> |
+|**여다솔** | <center>[기본 풀이 보러가기](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Fundamental/F3-Python/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9-Dasol.ipynb)</center> | <center>[간지나는 풀이 보러가기](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Fundamental/F3-Python/2016-Dasol.ipynb)</center> |
 |**조대현** | <center></center> | <center></center> |
 |**이호민** | <center></center> | <center></center> |
 
