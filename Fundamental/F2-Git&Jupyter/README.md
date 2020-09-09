@@ -10,7 +10,7 @@ Fundamental 2번째 노드에서 깃허브와 주피터에 대해서 배웠습�
 ### Contents
 * [여다솔 퍼실 자기소개](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Fundamental/F2-Git%26Jupyter/Introduction-Dasol.md)
 * [조대현 퍼실 자기소개](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Fundamental/F2-Git%26Jupyter/Introduce_Daehyun.ipynb)
-* 이호민 퍼실 자기소개
+* [이호민 퍼실 자기소개](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Fundamental/F2-Git%26Jupyter/Intro-lhm.md)
 
 ### Question
 * 코딩도장에서 여러가지를 배웠습니다. 이를 소스코드로 작성하여 하나의 폴더로 묶고 싶은데, 어떻게 하면 좋을까요?
