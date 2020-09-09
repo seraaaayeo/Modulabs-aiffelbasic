@@ -15,7 +15,7 @@ if문과 for문만으로도 쉽게 풀리지만, 조금만 생각해보면 더 �
 |:--------|:--------:|:--------|
 |**여다솔** | <center>[기본 풀이 보러가기](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Fundamental/F3-Python/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9-Dasol.ipynb)</center> | <center>[간지나는 풀이 보러가기](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Fundamental/F3-Python/2016-Dasol.ipynb)</center> |
 |**조대현** | <center></center> | <center></center> |
-|**이호민** | <center></center> | <center></center> |
+|**이호민** | <center>[풀이](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Fundamental/F3-Python/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9-Homin.ipynb)</center> | <center>[que를 이용하여 풀어보기](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Fundamental/F3-Python/2016-Homin.ipynb)</center> |
 
 ### Note
 * if문과 for문 등 간단한 문법을 이용하여 빠르게 풀어보세요.
