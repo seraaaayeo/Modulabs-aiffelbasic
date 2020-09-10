@@ -24,4 +24,4 @@
 |:--------:|:--------:|:--------:|:--------:|
 |**여다솔** | <center>-</center> | <center>-</center> | <center>-</center> |
 |**이호민** | <center>-</center> | <center>-</center> | <center>-</center> |
-|**조대현** | <center>-</center> | <center>-</center> | <center>-</center> |
+|**조대현** | <center>[if,else로 풀어보기](https://github.com/aiffel-facil-jdh/Modulabs-aiffelbasic/blob/master/Python_CoingDojang/0910_unit9-15/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4-Daehyun.ipynb)</center> | <center>[한 줄만에 짜버리기-fstring](https://github.com/aiffel-facil-jdh/Modulabs-aiffelbasic/blob/master/Python_CoingDojang/0910_unit9-15/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0-Daehyun.ipynb)</center> | <center>[한 줄만에 짜버리기2-삼항연산자](https://github.com/aiffel-facil-jdh/Modulabs-aiffelbasic/blob/master/Python_CoingDojang/0910_unit9-15/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98-Daehyun.ipynb)</center> |
