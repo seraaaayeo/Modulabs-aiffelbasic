@@ -23,5 +23,5 @@
 |  <center>풀이보기</center> |  <center>같은 숫자는 싫어</center> |  <center>서울에서 김서방 찾기</center> |  <center>짝수와 홀수</center> |
 |:--------:|:--------:|:--------:|:--------:|
 |**여다솔** | <center>-</center> | <center>-</center> | <center>-</center> |
-|**이호민** | <center>-</center> | <center>-</center> | <center>-</center> |
+|**이호민** | <center>https://github.com/seraaaayeo/Modulabs-aiffelbasic/tree/master/Python_CoingDojang/0910_unit9-15/같은%20숫자는%20싫어-Homin.ipynb</center> | <center>https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Python_CoingDojang/0910_unit9-15/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0-Homin.ipynb</center> | <center>https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Python_CoingDojang/0910_unit9-15/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98-Homin.ipynb</center> |
 |**조대현** | <center>-</center> | <center>-</center> | <center>-</center> |
