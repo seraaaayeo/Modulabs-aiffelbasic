@@ -17,20 +17,13 @@
     * [Modulabs' LMS](https://github.com/seraaaayeo/Modulabs-aiffelbasic/tree/master/Fundamental)
     * [Python 코딩도장](https://github.com/seraaaayeo/Modulabs-aiffelbasic/tree/master/Python_CoingDojang)
 
-## Quiz
-|  <center>Course</center> |  <center>Course contents</center> |  <center>Description</center> |  
-|:--------|:--------:|:--------:|
-|**F-2** | <center>Jupyter & Github</center> | <center>주피터 노트북으로 마크다운 문법을 적용하여 자기소개서를 작성하고 깃허브에 배포하기</center> |
-|**F-3** | <center>Python</center> | <center>기본적인 파이썬 문법을 사용하여 문제풀이 후 다른 방법으로도 풀어보기</center> |
-|**P-9~15** | <center>Python</center> | <center>문자열, 리스트, 조건문 다루기</center> |
-
-## 문제 보기
+## 깜짝 퀴즈 문제보기
 ### Sep-week2
-|  <center>번호</center> |  <center>문제</center> |  <center>관련 진도</center> |  <center>핵심 개념</center> |  
-|:--------|:--------:|:--------:|:--------:|
-|**1** | <center>[자기소개 작성](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Fundamental/F2-Git%26Jupyter/README.md)</center> | <center>Fundamental 2</center> | <center>Jupyter, Markdown, Git</center> |
-|**2** | <center>[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12901)</center> | <center>Fundamental 3</center> | <center>if, range</center> |
-|**3** | <center>[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)</center> | <center>Fundamental 3</center> | <center>list, for-loop</center> |
-|**4** | <center>[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)</center> | <center>코딩도장 Unit 9</center> | <center>문자열 인덱스 활용</center> |
-|**5** | <center>[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)</center> | <center>코딩도장 Unit 10</center> | <center>리스트 다루기</center> |
-|**6** | <center>[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3)</center> | <center>코딩도장 Unit 13,14,15</center> | <center>if-elif-else 기본 활용</center> 용
+|  <center>번호</center> |  <center>문제</center> |  <center>관련 진도</center> |  <center>핵심 개념</center> |  <center>제출일</center> |  
+|:--------|:--------:|:--------:|:--------:|:--------:|
+|**1** | <center>[자기소개 작성](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Fundamental/F2-Git%26Jupyter/README.md)</center> | <center>F-2</center> | <center>Jupyter, Markdown, Git</center> | <center>0905</center> |
+|**2** | <center>[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12901)</center> | <center>F-3</center> | <center>if, range</center> | <center>0908</center> |
+|**3** | <center>[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)</center> | <center>F-3</center> | <center>list, for-loop</center> | <center>0908</center> |
+|**4** | <center>[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)</center> | <center>코딩도장 Unit 9</center> | <center>문자열 인덱스 활용</center> | <center>0910</center> |
+|**5** | <center>[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)</center> | <center>코딩도장 Unit 10</center> | <center>리스트 다루기</center> | <center>0910</center> |
+|**6** | <center>[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3)</center> | <center>코딩도장 Unit 13,14,15</center> | <center>if-elif-else 기본 활용</center> | <center>0910</center> |
