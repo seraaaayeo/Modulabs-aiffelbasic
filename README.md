@@ -22,4 +22,5 @@
 |:--------|:--------:|:--------:|
 |**F-2** | <center>Jupyter & Github</center> | <center>주피터 노트북으로 마크다운 문법을 적용하여 자기소개서를 작성하고 깃허브에 배포하기</center> |
 |**F-3** | <center>Python</center> | <center>기본적인 파이썬 문법을 사용하여 문제풀이 후 다른 방법으로도 풀어보기</center> |
+|**P-9~15** | <center>Python</center> | <center>문자열, 리스트, 조건문 다루기</center> |
 
