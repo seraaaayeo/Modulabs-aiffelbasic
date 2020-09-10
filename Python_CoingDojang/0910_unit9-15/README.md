@@ -10,7 +10,7 @@
 > 출처 : 프로그래머스 Level1
 
 |  <center>문제 보기</center> |  <center>관련 개념</center> |
-|:--------|:--------:|:--------:|
+|:--------|:--------:|
 |**[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)** | <center>리스트 다루기</center> |
 |**[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)** | <center>문자열 인덱싱</center> |
 |**[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)** | <center>조건문 기본</center> |
