@@ -22,6 +22,6 @@
 ### 퍼실 답안 엿보기
 |  <center>풀이보기</center> |  <center>가운데 글자 가져오기</center> |  <center>K번째 수</center> | <center>더하기 사이클</center> |
 |:--------:|:--------:|:--------:|:--------:|
-|**여다솔** | <center></center> | <center></center> | <center></center> |
+|**여다솔** | <center>[슬라이싱 풀이](가운데 글자 가져오기-Dasol.ipynb)</center> | <center>[슬라이싱 풀이](K번째 수-Dasol.ipynb)</center> | <center>[비효율적인 풀이ㅠㅠ](더하기 사이클-Dasol.ipynb)</center> |
 |**이호민** | <center>[slicing 풀이](prob_1.ipynb)</center> | <center>[continue 풀이](prob_2.ipynb)</center> | <center>[break 풀이](prob_3.ipynb)</center> |
 |**조대현** | <center>[가운데 글자 가져오기](가운데글자가져오기-Daehyun.ipynb)</center> | <center>[한줄로 풀어버리기](K번째수-Daehyun.ipynb)</center> | <center>[푸느라 고생했어요...](더하기사이클-Daehyun.ipynb)</center> |
