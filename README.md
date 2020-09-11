@@ -26,7 +26,7 @@
 |**3** | <center>[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)</center> | <center>F-3</center> | <center>list, for-loop</center> | <center>0908</center> |
 |**4** | <center>[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)</center> | <center>코딩도장 Unit 9</center> | <center>문자열 인덱스 활용</center> | <center>0910</center> |
 |**5** | <center>[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)</center> | <center>코딩도장 Unit 10</center> | <center>리스트 다루기</center> | <center>0910</center> |
-|**6** | <center>[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3)</center> | <center>코딩도장 Unit 16,17,18</center> | <center>if-elif-else 기본 활용</center> | <center>0910</center> |
+|**6** | <center>[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3)</center> | <center>코딩도장 Unit 13,14,15</center> | <center>if-elif-else 기본 활용</center> | <center>0910</center> |
 |**7** | <center>[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)</center> | <center>코딩도장 Unit 16,17,18</center> | <center>리스트 슬라이싱</center> | <center>0911</center> |
 |**8** | <center>[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3)</center> | <center>코딩도장 Unit 16,17,18</center> | <center>리스트 슬라이싱</center> | <center>0911</center> |
-|**9** | <center>[더하기 사이클](https://www.acmicpc.net/problem/1110)</center> | <center>코딩도장 Unit 13,14,15</center> | <center>while 루프와 OJ 사용</center> | <center>0911</center> |
+|**9** | <center>[더하기 사이클](https://www.acmicpc.net/problem/1110)</center> | <center>코딩도장 Unit 16,17,18</center> | <center>while 루프와 OJ 사용</center> | <center>0911</center> |
