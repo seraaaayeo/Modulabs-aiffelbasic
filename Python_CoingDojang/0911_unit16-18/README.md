@@ -23,5 +23,5 @@
 |  <center>풀이보기</center> |  <center>가운데 글자 가져오기</center> |  <center>K번째 수</center> | <center>더하기 사이클</center> |
 |:--------:|:--------:|:--------:|:--------:|
 |**여다솔** | <center></center> | <center></center> | <center></center> |
-|**이호민** | <center>[slicing 풀이](https://github.com/aiffel-facil-jdh/Modulabs-aiffelbasic/blob/master/Modulabs-aiffelbasic/Python_CoingDojang/0911_unit16-18/prob_1.ipynb)</center> | <center>[continue 풀이](https://github.com/aiffel-facil-jdh/Modulabs-aiffelbasic/blob/master/Modulabs-aiffelbasic/Python_CoingDojang/0911_unit16-18/prob_2.ipynb)</center> | <center>[break 풀이](https://github.com/aiffel-facil-jdh/Modulabs-aiffelbasic/blob/master/Modulabs-aiffelbasic/Python_CoingDojang/0911_unit16-18/prob_3.ipynb)</center> |
+|**이호민** | <center>[slicing 풀이](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Python_CoingDojang/0911_unit16-18/prob_1.ipynb)</center> | <center>[continue 풀이](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Python_CoingDojang/0911_unit16-18/prob_2.ipynb)</center> | <center>[break 풀이](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Python_CoingDojang/0911_unit16-18/prob_3.ipynb)</center> |
 |**조대현** | <center></center> | <center></center> | <center></center> |
