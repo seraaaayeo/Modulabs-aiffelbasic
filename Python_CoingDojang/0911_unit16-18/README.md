@@ -24,4 +24,4 @@
 |:--------:|:--------:|:--------:|:--------:|
 |**여다솔** | <center></center> | <center></center> | <center></center> |
 |**이호민** | <center>[slicing 풀이](prob_1.ipynb)</center> | <center>[continue 풀이](prob_2.ipynb)</center> | <center>[break 풀이](prob_3.ipynb)</center> |
-|**조대현** | <center></center> | <center>[한줄로 풀어버리기](K번째수-Daehyun.ipynb)</center> | <center></center> |
+|**조대현** | <center>[가운데 글자 가져오기](가운데글자가져오기-Daehyun.ipynb)</center> | <center>[한줄로 풀어버리기](K번째수-Daehyun.ipynb)</center> | <center>[푸느라 고생했어요...](더하기사이클-Daehyun.ipynb)</center> |
