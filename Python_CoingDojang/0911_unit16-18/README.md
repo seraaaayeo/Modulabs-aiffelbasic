@@ -22,6 +22,6 @@
 ### 퍼실 답안 엿보기
 |  <center>풀이보기</center> |  <center>가운데 글자 가져오기</center> |  <center>K번째 수</center> | <center>더하기 사이클</center> |
 |:--------:|:--------:|:--------:|:--------:|
-|**여다솔** | <center></center> | <center></center> | <center></center> |
+|**여다솔** | <center>[슬라이싱 풀이](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Python_CoingDojang/0911_unit16-18/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-Dasol.ipynb)</center> | <center>[슬라이싱 풀이](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Python_CoingDojang/0911_unit16-18/K%EB%B2%88%EC%A7%B8%20%EC%88%98-Dasol.ipynb)</center> | <center>[비효율적인 풀이ㅠㅠ](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Python_CoingDojang/0911_unit16-18/%EB%8D%94%ED%95%98%EA%B8%B0%20%EC%82%AC%EC%9D%B4%ED%81%B4-Dasol.ipynb)</center> |
 |**이호민** | <center>[slicing 풀이](prob_1.ipynb)</center> | <center>[continue 풀이](prob_2.ipynb)</center> | <center>[break 풀이](prob_3.ipynb)</center> |
 |**조대현** | <center>[가운데 글자 가져오기](가운데글자가져오기-Daehyun.ipynb)</center> | <center>[한줄로 풀어버리기](K번째수-Daehyun.ipynb)</center> | <center>[푸느라 고생했어요...](더하기사이클-Daehyun.ipynb)</center> |
