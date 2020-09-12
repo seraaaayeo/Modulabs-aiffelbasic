@@ -11,8 +11,8 @@
 
 |  <center>번호</center> |  <center>문제 보기</center> |  <center>관련 개념</center> |
 |:--------|:--------|:--------:|
-| <center>1</center> |**[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)** | <center></center> |
-| <center>2</center> |**[에라토스테네스의 체](https://www.acmicpc.net/problem/2960)** | <center></center> |
+| <center>1</center> |**[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)** | <center>FizzBuzz</center> |
+| <center>2</center> |**[에라토스테네스의 체](https://www.acmicpc.net/problem/2960)** | <center>FizzBuzz</center> |
 
 ### Note
 * if문과 for문 등 간단한 문법을 이용하여 빠르게 풀어보세요.
@@ -22,6 +22,6 @@
 ### 퍼실 답안 엿보기
 |  <center>풀이보기</center> |  <center>최대공약수와 최소공배수</center> |  <center>에라토스테네스의 체</center> |
 |:--------:|:--------:|:--------:|
-|**여다솔** | <center></center> | <center></center> |
+|**여다솔** | <center>1-Dasol.ipynb</center> | <center></center> |
 |**이호민** | <center></center> | <center></center> |
 |**조대현** | <center></center> | <center></center> |
