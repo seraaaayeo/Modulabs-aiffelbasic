@@ -30,3 +30,5 @@
 |**7** | <center>[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)</center> | <center>코딩도장 Unit 16,17,18</center> | <center>리스트 슬라이싱</center> | <center>0911</center> |
 |**8** | <center>[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3)</center> | <center>코딩도장 Unit 16,17,18</center> | <center>리스트 슬라이싱</center> | <center>0911</center> |
 |**9** | <center>[더하기 사이클](https://www.acmicpc.net/problem/1110)</center> | <center>코딩도장 Unit 16,17,18</center> | <center>while 루프와 OJ 사용</center> | <center>0911</center> |
+|**10** | <center>[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)</center> | <center>코딩도장 Unit 19,20,21</center> | <center>FizzBuzz</center> | <center>0912</center> |
+|**11** | <center>[에라토스테네스의 체](https://www.acmicpc.net/problem/2960)</center> | <center>코딩도장 Unit 19,20,21</center> | <center>FizzBuzz</center> | <center>0912</center> |
