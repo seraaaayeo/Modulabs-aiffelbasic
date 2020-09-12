@@ -23,5 +23,5 @@
 |  <center>풀이보기</center> |  <center>최대공약수와 최소공배수</center> |  <center>에라토스테네스의 체</center> |
 |:--------:|:--------:|:--------:|
 |**여다솔** | <center>[내장함수와 집합](./1-Dasol.ipynb)</center> | <center></center> |
-|**이호민** | <center></center> | <center></center> |
+|**이호민** | <center>[다양한 풀이](./1-Homin.ipynb)</center> | <center>[풀이](./2-Homin.ipynb)</center> |
 |**조대현** | <center></center> | <center></center> |
