@@ -23,5 +23,5 @@
 |:--------:|:--------:|
 |**여다솔** | <center>[]()</center> |
 |**이호민** | <center>[한 줄 풀이와 2중 for문](./1-Homin.ipynb)</center> |
-|**조대현** | <center>[]()</center> |
+|**조대현** | <center>[set의 등장 두둥](./1-Daehyun.ipynb)</center> |
 
