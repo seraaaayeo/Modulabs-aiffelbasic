@@ -21,7 +21,7 @@
 ### 퍼실 답안 엿보기
 |  <center>풀이보기</center> |  <center>두 개 뽑아서 더하기</center> |
 |:--------:|:--------:|
-|**여다솔** | <center>[]()</center> |
+|**여다솔** | <center>[여러가지 방법으로 풀어보아요](./1-Dasol.ipynb)</center> |
 |**이호민** | <center>[한 줄 풀이와 2중 for문](./1-Homin.ipynb)</center> |
 |**조대현** | <center>[set의 등장 두둥](./1-Daehyun.ipynb)</center> |
 
