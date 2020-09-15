@@ -22,6 +22,6 @@
 |  <center>풀이보기</center> |  <center>두 개 뽑아서 더하기</center> |
 |:--------:|:--------:|
 |**여다솔** | <center>[]()</center> |
-|**이호민** | <center>[]()</center> |
+|**이호민** | <center>[한 줄 풀이와 2중 for문](./1-Homin)</center> |
 |**조대현** | <center>[]()</center> |
 
