@@ -19,16 +19,17 @@
 
 ## 깜짝 퀴즈 문제보기
 ### Sep-week2
-|  <center>번호</center> |  <center>문제</center> |  <center>관련 진도</center> |  <center>핵심 개념</center> |  <center>제출일</center> |  
-|:--------|:--------:|:--------:|:--------:|:--------:|
-|**1** | <center>[자기소개 작성](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Fundamental/F2-Git%26Jupyter/README.md)</center> | <center>F-2</center> | <center>Jupyter, Markdown, Git</center> | <center>0905</center> |
-|**2** | <center>[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12901)</center> | <center>F-3</center> | <center>if, range</center> | <center>0908</center> |
-|**3** | <center>[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)</center> | <center>F-3</center> | <center>list, for-loop</center> | <center>0908</center> |
-|**4** | <center>[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)</center> | <center>코딩도장 Unit 9</center> | <center>문자열 인덱스 활용</center> | <center>0910</center> |
-|**5** | <center>[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)</center> | <center>코딩도장 Unit 10</center> | <center>리스트 다루기</center> | <center>0910</center> |
-|**6** | <center>[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3)</center> | <center>코딩도장 Unit 13,14,15</center> | <center>if-elif-else 기본 활용</center> | <center>0910</center> |
-|**7** | <center>[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)</center> | <center>코딩도장 Unit 16,17,18</center> | <center>리스트 슬라이싱</center> | <center>0911</center> |
-|**8** | <center>[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3)</center> | <center>코딩도장 Unit 16,17,18</center> | <center>리스트 슬라이싱</center> | <center>0911</center> |
-|**9** | <center>[더하기 사이클](https://www.acmicpc.net/problem/1110)</center> | <center>코딩도장 Unit 16,17,18</center> | <center>while 루프와 OJ 사용</center> | <center>0911</center> |
-|**10** | <center>[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)</center> | <center>코딩도장 Unit 19,20,21</center> | <center>FizzBuzz</center> | <center>0912</center> |
-|**11** | <center>[에라토스테네스의 체](https://www.acmicpc.net/problem/2960)</center> | <center>코딩도장 Unit 19,20,21</center> | <center>FizzBuzz</center> | <center>0912</center> |
+|  <center>번호</center> |  <center>문제</center> |  <center>관련 진도</center> |  <center>핵심 개념</center> |  <center>제출일</center> |  <center>예시답안</center> |  
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|**1** | <center>[자기소개 작성](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Fundamental/F2-Git%26Jupyter/README.md)</center> | <center>F-2</center> | <center>Jupyter, Markdown, Git</center> | <center>0905</center> | <center>[Link](https://github.com/seraaaayeo/Modulabs-aiffelbasic/tree/master/Fundamental/F2-Git%26Jupyter)</center> |
+|**2** | <center>[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12901)</center> | <center>F-3</center> | <center>if, range</center> | <center>0908</center> | <center>[Link](https://github.com/seraaaayeo/Modulabs-aiffelbasic/tree/master/Fundamental/F3-Python)</center> |
+|**3** | <center>[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)</center> | <center>F-3</center> | <center>list, for-loop</center> | <center>0908</center> | <center></center> |
+|**4** | <center>[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)</center> | <center>코딩도장 Unit 9</center> | <center>문자열 인덱스 활용</center> | <center>0910</center> | <center>[Link](https://github.com/seraaaayeo/Modulabs-aiffelbasic/tree/master/Python_CoingDojang/0910_unit9-15)</center> |
+|**5** | <center>[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)</center> | <center>코딩도장 Unit 10</center> | <center>리스트 다루기</center> | <center>0910</center> | <center></center> |
+|**6** | <center>[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3)</center> | <center>코딩도장 Unit 13,14,15</center> | <center>if-elif-else 기본 활용</center> | <center>0910</center> | <center>[Link]()</center> |
+|**7** | <center>[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)</center> | <center>코딩도장 Unit 16,17,18</center> | <center>리스트 슬라이싱</center> | <center>0911</center> | <center>[Link](https://github.com/seraaaayeo/Modulabs-aiffelbasic/tree/master/Python_CoingDojang/0911_unit16-18)</center> |
+|**8** | <center>[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3)</center> | <center>코딩도장 Unit 16,17,18</center> | <center>리스트 슬라이싱</center> | <center>0911</center> | <center></center> |
+|**9** | <center>[더하기 사이클](https://www.acmicpc.net/problem/1110)</center> | <center>코딩도장 Unit 16,17,18</center> | <center>while 루프와 OJ 사용</center> | <center>0911</center> | <center></center> |
+|**10** | <center>[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)</center> | <center>코딩도장 Unit 19,20,21</center> | <center>FizzBuzz</center> | <center>0912</center> | <center>[Link](https://github.com/seraaaayeo/Modulabs-aiffelbasic/tree/master/Python_CoingDojang/0912_unit19-21)</center> |
+|**11** | <center>[에라토스테네스의 체](https://www.acmicpc.net/problem/2960)</center> | <center>코딩도장 Unit 19,20,21</center> | <center>FizzBuzz</center> | <center>0912</center> | <center></center> |
+|**12** | <center>[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)</center> | <center>코딩도장 Unit 22</center> | <center>리스트 다루기</center> | <center>0915</center> | <center>[Link](https://github.com/seraaaayeo/Modulabs-aiffelbasic/tree/master/Python_CoingDojang/0915_unit22)</center> |
