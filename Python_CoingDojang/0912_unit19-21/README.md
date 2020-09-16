@@ -24,5 +24,5 @@
 |:--------:|:--------:|:--------:|
 |**여다솔** | <center>[내장함수와 집합](./1-Dasol.ipynb)</center> | <center>[기본 풀이](./2-Dasol.ipynb)</center> |
 |**이호민** | <center>[다양한 풀이](./1-Homin.ipynb)</center> | <center>[풀이](./2-Homin.ipynb)</center> |
-|**조대현** | <center>[if문으로 풀기](./1-Daehyun.ipynb)</center> | <center>[쳇](./2-Daehyun.ipynb)</center> |
 
+|**조대현** | <center>[if문으로 풀기](./1-Daehyun.ipynb)</center> | <center>[쳇](./2-Daehyun.ipynb)</center> |
