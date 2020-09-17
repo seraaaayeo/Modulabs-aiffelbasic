@@ -37,6 +37,9 @@
 |  <center>번호</center> |  <center>문제</center> |  <center>관련 진도</center> |  <center>핵심 개념</center> |  <center>제출일</center> |  <center>예시답안</center> |  
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |**12** | <center>[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)</center> | <center>코딩도장 Unit 22</center> | <center>리스트 다루기</center> | <center>0915</center> | <center>[Link](https://github.com/seraaaayeo/Modulabs-aiffelbasic/tree/master/Python_CoingDojang/0915_unit22)</center> |
+|**13** | <center>[행렬 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)</center> | <center>코딩도장 Unit 23</center> | <center>이중 리스트</center> | <center>0916</center> | <center>[Link](https://github.com/seraaaayeo/Modulabs-aiffelbasic/tree/master/Python_CoingDojang/0916_unit23)</center> |
+|**14** | <center>[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)</center> | <center>코딩도장 Unit 24</center> | <center>문자열 다루기(아스키코드)</center> | <center>0917</center> | <center>[Link](https://github.com/seraaaayeo/Modulabs-aiffelbasic/tree/master/Python_CoingDojang/0917_unit23)</center> |
+|**15** | <center>[크레인 인형뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061)</center> | <center>코딩도장 Unit 24</center> | <center>이중 리스트</center> | <center>0917</center> | <center></center> |
 
 ***
 ## Templete
