@@ -24,4 +24,4 @@
 |:--------|:--------:|:--------|
 |**여다솔** | <center></center> | <center></center> |
 |**조대현** | <center></center> | <center></center> |
-|**이호민** | <center></center> | <center></center> |
+|**이호민** | <center>[넘파이 풀이 & double list 풀이](./1-Homin.ipynb)</center> | <center></center> |
