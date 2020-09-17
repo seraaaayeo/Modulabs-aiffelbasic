@@ -22,4 +22,4 @@
 |:--------|:--------:|:--------|
 |**여다솔** | <center></center> | <center></center> |
 |**조대현** | <center>[chr, ord 활용하기](./1-Daehyun.ipynb)</center> | <center>[그냥 열심히 풀어보기](./2-Daehyun.ipynb)</center> |
-|**이호민** | <center></center> | <center></center> |
+|**이호민** | <center>[chr, ord, deque 활용하기](./1-Homin.ipynb)</center> | <center>[2차원 어려워...](./2-Homin.ipynb)</center> |
