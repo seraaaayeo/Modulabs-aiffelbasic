@@ -10,9 +10,7 @@
 
 |  <center>문제 보기</center> |  <center>관련 개념</center> |
 |:--------|:--------:|
-|**[행렬덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)** | <center></center> |
-|**[]()** | <center></center> |
-|**[]()** | <center></center> |
+|**[행렬덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)** | <center>이중리스트</center> |
 
 ### Note
 * if문과 for문 등 간단한 문법을 이용하여 빠르게 풀어보세요.
@@ -20,8 +18,8 @@
 * 문제 풀이는 주피터를 이용해 주시고, 각자 깃허브에 배포(push)해 주세요. 퍼실들이 확인하러 갑니다=3
 
 ### 퍼실 답안 엿보기
-|  <center>풀이 보기</center> |  <center>행렬덧셈</center> |  <center></center> |
-|:--------|:--------:|:--------|
-|**여다솔** | <center></center> | <center></center> |
-|**조대현** | <center></center> | <center></center> |
-|**이호민** | <center>[넘파이 풀이 & double list 풀이](./1-Homin.ipynb)</center> | <center></center> |
+|  <center>풀이 보기</center> |  <center>행렬덧셈</center> |
+|:--------|:--------:|
+|**여다솔** | <center>[이중리스트 정석대로 풀기](https://github.com/seraaaayeo/Modulabs-aiffelbasic/blob/master/Python_CoingDojang/0916_unit23/1-Dasol.ipynb)</center> |
+|**조대현** | <center></center> |
+|**이호민** | <center>[넘파이 풀이 & double list 풀이](./1-Homin.ipynb)</center> |
